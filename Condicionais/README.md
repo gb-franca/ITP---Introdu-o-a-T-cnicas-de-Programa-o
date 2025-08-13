@@ -75,7 +75,7 @@ switch (variavel) {
 ```bash
 gcc nome_do_arquivo.c -o programa
 ./programa
-
+```
 ---
 
 ## 🏆 Fonte das questões
