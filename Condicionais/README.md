@@ -19,9 +19,9 @@ Objetivo: praticar **tomada de decisão** no código e entender como diferentes 
 
 | Operador | Nome          | Exemplo               | Resultado Verdadeiro se...                          |
 |----------|--------------|-----------------------|------------------------------------------------------|
-| `&&`     | E lógico      | `(a > 0 && b > 0)`    | **Ambas** as condições forem verdadeiras             |
-| `||`     | OU lógico     | `(a > 0 || b > 0)`    | **Pelo menos uma** condição for verdadeira           |
-| `!`      | NÃO lógico    | `!(a > 0)`            | A condição for **falsa**                             |
+|  &&      | E lógico      |  (a > 0 && b > 0)     | **Ambas** as condições forem verdadeiras             |
+|  ||      | OU lógico     |  (a > 0 || b > 0)     | **Pelo menos uma** condição for verdadeira           |
+|  !       | NÃO lógico    |  !(a > 0)             | A condição for **falsa**                             |
 
 ---
 
