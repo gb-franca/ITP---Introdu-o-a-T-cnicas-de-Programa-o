@@ -31,15 +31,15 @@ Objetivo: praticar **tomada de decisão** no código e entender como diferentes 
 ## 🧩 Modelos básicos
 
 ### If / Else
-\`\`\`c
+```c
 if (condicao) {
     // Código se a condição for verdadeira
 } else {
     // Código se a condição for falsa
 }
-\`\`\`
+```
 ### If / Else If / Else
-\`\`\`c
+```c
 if (condicao1) {
     // Caso 1
 } else if (condicao2) {
@@ -47,9 +47,9 @@ if (condicao1) {
 } else {
     // Caso padrão
 }
-\`\`\`
+```
 ### Switch / Case
-\`\`\`c
+```c
 switch (variavel) {
     case 1:
         // Código para caso 1
@@ -60,7 +60,7 @@ switch (variavel) {
     default:
         // Código para qualquer outro valor
 }
-\`\`\`
+```
 ---
 
 ## 🧠 Dicas rápidas
