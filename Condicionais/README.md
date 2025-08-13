@@ -28,7 +28,7 @@ Objetivo: praticar **tomada de decisão** no código e entender como diferentes 
 ## 🧩 Modelos básicos
 
 ### If / Else
-```c
+
 if (condicao) {
     // Código se a condição for verdadeira
 } else {
@@ -36,7 +36,7 @@ if (condicao) {
 }
 
 ### If / Else If / Else
-```c
+
 if (condicao1) {
     // Caso 1
 } else if (condicao2) {
@@ -46,7 +46,7 @@ if (condicao1) {
 }
 
 ### Switch / Case
-```c
+
 switch (variavel) {
     case 1:
         // Código para caso 1
