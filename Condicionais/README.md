@@ -1,4 +1,4 @@
-# 📂 Condicionais – ITP (Introdução às Técnicas de Programação)
+# 📂 Estruturas Condicionais em C – ITP (Introdução às Técnicas de Programação)
 
 Pasta com resoluções de questões do **beecrowd** sobre **estruturas condicionais** em C.  
 Objetivo: praticar **tomada de decisão** no código e entender como diferentes condições alteram o fluxo do programa.
