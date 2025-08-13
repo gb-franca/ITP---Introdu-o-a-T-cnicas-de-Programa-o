@@ -19,16 +19,16 @@ Objetivo: praticar **tomada de decisão** no código e entender como diferentes 
 
 | Operador | Nome          | Exemplo               | Resultado Verdadeiro se...                          |
 |----------|--------------|-----------------------|------------------------------------------------------|
-|  &&      | E lógico      |  (a > 0 && b > 0)     | **Ambas** as condições forem verdadeiras             |
-|  ||      | OU lógico     |  (a > 0 || b > 0)     | **Pelo menos uma** condição for verdadeira           |
-|  !       | NÃO lógico    |  !(a > 0)             | A condição for **falsa**                             |
+| `&&`     | E lógico      | `(a > 0 && b > 0)`    | **Ambas** as condições forem verdadeiras             |
+| `||`     | OU lógico     | `(a > 0 || b > 0)`    | **Pelo menos uma** condição for verdadeira           |
+| `!`      | NÃO lógico    | `!(a > 0)`            | A condição for **falsa**                             |
 
 ---
 
 ## 🧩 Modelos básicos
 
 ### If / Else
-
+```c
 if (condicao) {
     // Código se a condição for verdadeira
 } else {
@@ -36,7 +36,7 @@ if (condicao) {
 }
 
 ### If / Else If / Else
-
+```c
 if (condicao1) {
     // Caso 1
 } else if (condicao2) {
@@ -46,7 +46,7 @@ if (condicao1) {
 }
 
 ### Switch / Case
-
+```c
 switch (variavel) {
     case 1:
         // Código para caso 1
