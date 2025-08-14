@@ -1,31 +1,37 @@
-# 📂 Estruturas Condicionais em C – ITP (Introdução às Técnicas de Programação)
+# Tópico 02: Estruturas Condicionais em C
 
-Pasta com resoluções de questões do **beecrowd** sobre **estruturas condicionais** em C.  
-Objetivo: praticar **tomada de decisão** no código e entender como diferentes condições alteram o fluxo do programa.
+Esta pasta contém as soluções para os problemas da seção **"Iniciante"** do Beecrowd que envolvem **estruturas condicionais**, correspondendo ao segundo tópico da disciplina de **Introdução à Técnica de Programação (ITP)**.
 
----
+## 💡 Conceitos Abordados
 
-## 🎯 Conceitos Essenciais
+Neste tópico, o foco foi em **tomada de decisão** dentro de programas escritos em C, permitindo que diferentes blocos de código sejam executados dependendo de condições específicas.
 
-- **If / Else** → Escolhe entre dois caminhos possíveis.
-- **If / Else If / Else** → Permite testar múltiplas condições em sequência.
-- **Switch / Case** → Alternativa para vários `if` quando se compara **um único valor**.
-- **Operadores Relacionais** → Comparam valores (`>`, `<`, `==`, `!=`, `>=`, `<=`).
-- **Operadores Lógicos** → Combinam condições (tabela abaixo).
+### 1. If / Else e If / Else If / Else
+Estruturas utilizadas para executar diferentes ações de acordo com condições lógicas:
+- **`if`**: Executa um bloco de código se a condição for verdadeira.
+- **`else`**: Executa um bloco de código se a condição do `if` for falsa.
+- **`else if`**: Permite testar múltiplas condições em sequência.
 
----
+### 2. Switch / Case
+Estrutura usada quando é necessário comparar **uma única variável** ou expressão com múltiplos valores possíveis:
+- **`case`**: Define um valor específico para executar um bloco de código.
+- **`break`**: Interrompe a execução do `switch` para evitar que outros casos sejam executados.
+- **`default`**: Executa se nenhum caso definido corresponder.
 
-## 🔍 Operadores Lógicos em C
+### 3. Operadores Relacionais
+Usados para comparar valores, retornando verdadeiro (**1**) ou falso (**0**):
+- `>` : maior que  
+- `<` : menor que  
+- `==` : igual a  
+- `!=` : diferente de  
+- `>=` : maior ou igual a  
+- `<=` : menor ou igual a  
 
-- `&&` (**E lógico**) → Verdadeiro se **todas** as condições forem verdadeiras.  
-  Ex.: `(a > 0 && b > 0)` só é verdadeiro se **a** e **b** forem maiores que 0.
-
-- `||` (**OU lógico**) → Verdadeiro se **pelo menos uma** das condições for verdadeira.  
-  Ex.: `(a > 0 || b > 0)` é verdadeiro se **a** ou **b** forem maiores que 0.
-
-- `!` (**NÃO lógico**) → Inverte o valor lógico.  
-  Ex.: `!(a > 0)` é verdadeiro se **a** não for maior que 0.
-
+### 4. Operadores Lógicos
+Permitem combinar ou modificar condições:
+- **`&&` (E lógico)**: Verdadeiro se todas as condições forem verdadeiras.  
+- **`||` (OU lógico)**: Verdadeiro se pelo menos uma condição for verdadeira.  
+- **`!` (NÃO lógico)**: Inverte o valor lógico da condição.
 ---
 
 ## 🧩 Modelos básicos
