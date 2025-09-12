@@ -18,7 +18,7 @@ Navegue pelas pastas abaixo para encontrar as soluções para cada tópico de IT
 * 📚 **02 - Condicionais** ([Ver Soluções](./Condicionais/))
 * 📚 **03 - Laços** ([Ver Soluções](./Lacos/))
 * 📚 **04 - Funções** ([Ver Soluções](./Funcoes/))
-* 📚 **05 - Arranjos - Vetores** ([Ver Soluções](./Arranjos-Vetores/))
+* 📚 **05 - Arranjos - Vetores** ([Ver Soluções](./Vetores/))
 * 📚 **06 - Arranjos - Matrizes** ([Ver Soluções](./Arranjos-Matrizes/))
 * 📚 **07 - Strings** ([Ver Soluções](./Strings/))
 * 📚 **08 - Registros e Enumerações** ([Ver Soluções](./Registros_e_Enumeracoes/))
