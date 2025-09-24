@@ -51,7 +51,7 @@ int somar(int a, int b) {
 #include <stdio.h>
 
 // Protótipo
-void saudacao(void);
+void saudacao();
 
 int main() {
     // Chamada
@@ -60,7 +60,7 @@ int main() {
 }
 
 // Definição
-void saudacao(void) {
+void saudacao() {
     printf("Olá, mundo!\n");
 }
 ```
